@@ -1,0 +1,3 @@
+v 3
+d Mark E Schaffer, Heriot-Watt University (m.e.schaffer@hw.ac.uk)
+p fvstrip FVSTRIP - Stata utility for removing b/n/o operators from factor variables
